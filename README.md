@@ -2,6 +2,7 @@
 
 
 
+
 ---
 
 ## Free vs Pro
@@ -22,5 +23,8 @@
 
 Get the full version with all premium features, priority support, and lifetime updates.
 
-**[Get Pro Version](https://whop.com/special-education-iep-client-crm-and-pipeline-tracker-notion-template)**
+**[Get Pro Version](https://buy.stripe.com/6oUcN512D0bWbRSbzScZb1a)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/6oUcN512D0bWbRSbzScZb1a)
+- [Buy on Whop](https://whop.com/special-education-iep-client-crm-and-pipeline-tracker-notion-template)
 
